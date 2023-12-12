@@ -6,7 +6,7 @@ import java.net.URL;
 public class GeoLocationFinder {
     public static void main(String[] args) {
         String apiKey = null;
-//  String apiKey = "AIzaSyB6teFVpUGbIeccQSWeK8gPLXTeq0atNzU"; // to get APIKEY - create Google Cloud Platform Account and generate Key
+//  String apiKey = "AIzaSyB6teFVpUGbIeccQSWeK8gPLXTeq0atNzU11 "; //  rm- 11 to get APIKEY - create Google Cloud Platform Account and generate Key
 
         String zipCode = "431123"; // Replace with the desired ZIP code
 
